@@ -9,7 +9,7 @@
 
 ### Cartoonize a video 
  #### two output qualities are available , with difference in execution time of each
-  Low Quality: Code uses Bilateral filter and edge detection to Cartoonize in with little execution time
+  Low Quality: Code uses Bilateral filter and edge detection to Cartoonize within small execution time
 
 
   High Quality: Code uses the same code for low quality and additionally uses K-means clustering to reduce number of colors used to       produce a stronger cartoonization effect , but with more execution time
