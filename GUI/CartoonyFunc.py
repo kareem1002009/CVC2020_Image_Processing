@@ -2,9 +2,8 @@ import numpy as np
 import cv2
 import os
 import time
-from moviepy.editor import *
+from moviepy.video.io.VideoFileClip import VideoFileClip
 from collections import defaultdict
-from scipy import stats
 
 #global variables to be accessed by all functions
 final_output_path = ''
