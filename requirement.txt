@@ -6,6 +6,7 @@ datetime
 openpyxl
 operator
 PyQt5
+PyQt5-tools
 pyinstaller
 moviepy
 
