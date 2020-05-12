@@ -24,10 +24,19 @@
 ### Image
 
 #### input
+![Sample1](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample2.jpg)
+![Sample2](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample3.jpg)
+![Sample3](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample4.jpg)
 
 
 #### output
 
+![Sample1](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample2_cartoon.jpg)
+![Sample2](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample3_cartoon.jpg)
+![Sample3](https://github.com/kareem1002009/CVC2020_Image_Processing/blob/master/Samples/Images/sample4_cartoon.jpg)
+
+
+
 
 ### Video
-[[url to samples folder ]]
+https://github.com/kareem1002009/CVC2020_Image_Processing/tree/master/Samples/Videos
