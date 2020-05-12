@@ -19,15 +19,15 @@ High Quality: Code uses the same code for low quality and additionally uses K-me
 
 
 
-# samples
+## samples
 
-## Image
+### Image
 
-### input
-
-
-### output
+#### input
 
 
-## Video
+#### output
+
+
+### Video
 [[url to samples folder ]]
