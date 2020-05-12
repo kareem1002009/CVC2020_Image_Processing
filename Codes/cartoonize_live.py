@@ -1,3 +1,6 @@
+#Live cartoonization of video stream
+#takes no arguments
+#functions loops while stream is ON , and returns when Esc is pressed
 def cartoonize_live():
     global final_output_path, output_video, output_file
     # Capturing video from webcam:

@@ -1,3 +1,4 @@
+#Cartoonize with applying bilateral filter , edge detection , and then K-means clustering
 def cartoonize_with_K_means(path):
     global final_output_path,img_cartoon
     frame = cv2.imread(path)
