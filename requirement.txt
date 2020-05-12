@@ -1,0 +1,11 @@
+numpy
+cv2
+sys
+os
+datetime
+openpyxl
+operator
+PyQt5
+pyinstaller
+moviepy
+
