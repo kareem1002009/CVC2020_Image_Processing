@@ -11,4 +11,6 @@ This repo is for the image processing competition CVC20 ,where we will create ap
 
 ### output
 
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1M8QHBjLQ2kijRKAQCYROPnUFT6nSc_TE/view?fbclid=IwAR3xJHoLyu6WeacHRxsJZiPVHe3RH2bcN4FSrhhNwtoaRLa9emWdKtycpgc)]
+
  <source src="https://drive.google.com/file/d/1M8QHBjLQ2kijRKAQCYROPnUFT6nSc_TE/view?fbclid=IwAR3xJHoLyu6WeacHRxsJZiPVHe3RH2bcN4FSrhhNwtoaRLa9emWdKtycpgc" type='video/mp4'>
