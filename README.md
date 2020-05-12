@@ -10,6 +10,8 @@ In the cartoonization process, an edge detection and bilateral filter are requir
 ### Cartoonize a video 
 #### two output qualities are available , with difference in execution time of each
 Low Quality: Code uses Bilateral filter and edge detection to Cartoonize in with little execution time
+
+
 High Quality: Code uses the same code for low quality and additionally uses K-means clustering to reduce number of colors used to produce a stronger cartoonization effect , but with more execution time
 
 ### Cartoonize Live video stream from your webcam
