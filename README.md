@@ -1,16 +1,29 @@
 # CVC2020_Image_Processing
-This repo is for the image processing competition CVC20 ,where we will create application that converts photos,videos and live stream with web camera to cartonized version
+This repo is for the image processing competition CVC20 ,where we will create application that converts photos,videos and live stream with web camera to cartoonized version
+
+In the cartoonization process, an edge detection and bilateral filter are required. The bilateral filter is used to reduce the color palette of an image. Afterward, we can apply edge detection to this image for generating a dark shaped image. Therefore, finally, some tricks can apply for this image to get a cartoon image. 
+
+# Modes Of Operation
+
+## Cartoonize an image
+
+## Cartoonize a video 
+### two output qualities are available , with difference in execution time of each
+
+## Cartoonize Live video stream from your webcam
 
 
 
 
 # samples
 
-## video 
+## Image
+
 ### input
+
 
 ### output
 
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1M8QHBjLQ2kijRKAQCYROPnUFT6nSc_TE/view?fbclid=IwAR3xJHoLyu6WeacHRxsJZiPVHe3RH2bcN4FSrhhNwtoaRLa9emWdKtycpgc)]
 
- <source src="https://drive.google.com/file/d/1M8QHBjLQ2kijRKAQCYROPnUFT6nSc_TE/view?fbclid=IwAR3xJHoLyu6WeacHRxsJZiPVHe3RH2bcN4FSrhhNwtoaRLa9emWdKtycpgc" type='video/mp4'>
+## Video
+[[url to samples folder ]]
