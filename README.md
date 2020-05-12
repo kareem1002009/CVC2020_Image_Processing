@@ -24,8 +24,11 @@ https://drive.google.com/file/d/1KqSlPC4SZOi2m7PRAtCyEJR4kPiTWTs8/view?usp=shari
 
 ### Steps to install
 
-1. Clone the repository. 
-2. Install the required packages.
+1. Clone the repository.
+2. Download K-Codec pack media player
+>https://codecguide.com/download_k-lite_codec_pack_full.htm
+--
+3. Install the required packages.
 >pip install -r requirements.txt
 ---
 
