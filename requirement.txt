@@ -2,11 +2,9 @@ numpy
 cv2
 sys
 os
-datetime
-openpyxl
-operator
 PyQt5
 PyQt5-tools
 pyinstaller
 moviepy
+scipy
 
