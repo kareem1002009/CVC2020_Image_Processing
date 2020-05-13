@@ -4,7 +4,7 @@
   In the cartoonization process, an edge detection and bilateral filter are required. The bilateral filter is used to reduce the color     palette of an image. Afterward, we can apply edge detection to this image for generating a dark shaped image. Therefore, finally, some   tricks can apply for this image to get a cartoon image. 
 
 ## Link for exe:
-https://drive.google.com/file/d/1KqSlPC4SZOi2m7PRAtCyEJR4kPiTWTs8/view?usp=sharing
+https://drive.google.com/file/d/17ewSURCkm98JY4PnmG_rpIR4BHCau9Va/view?usp=sharing
 
 ## Modes Of Operation
 
